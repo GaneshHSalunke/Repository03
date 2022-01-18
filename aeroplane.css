@@ -1,0 +1,334 @@
+body{
+	padding:0px;
+	margin:0px;
+}
+.header{
+	height: 90px;
+	width: 100%;
+	background-color:#2A4969 ;	
+	position:fixed;
+}
+.header .header1{
+	float: left;
+	width: 10%;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+.header h2{
+	color:#fff;
+	font-family:"corbel";
+	padding-left:150px;
+	margin-top:-60px;
+	font-size:25px;
+	
+}
+.header .header2{
+	float: right;
+	width: 60%;
+	padding-top:15px;
+	margin-right:-150px;
+}
+.header .header2 ul li{
+	display: inline;
+	padding: 10px;
+	font-size: 15px; 
+	font-family:"corbel";
+	color:#fff;	
+}
+.header .header2 ul li a:hover{
+	font-weight:underline;
+	cursor:pointer;
+}
+.A{
+	background-image:url("https://colibriwp-work.colibriwp.com/airclub-pro/wp-content/uploads/2020/01/hero-cibi-chakravarthi-KaZUDUOCxAg-unsplash.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:640px;
+	width:100%;
+	
+	
+}
+.A h6{
+	padding-top:200px;
+	padding-left:50px;
+	color:#fff;
+	font-size:20px;
+}
+.A h2{
+	padding-left:50px;
+	color:#fff;
+	font-size:60px;
+	font-family:corbel;
+}
+.A h4{
+	padding-left:50px;
+	color:#fff;
+	font-size:25px;
+}
+.A input[type=button]{
+	background:red;
+	margin-left:50px;
+	height:40px;
+	width:150px;
+	color:#fff;
+}
+.A input[type=button]:hover{
+	cursor:pointer;
+	background:#922B21;
+	color:#fff;
+	margin-bottom:20px;
+	border:none;
+	
+}
+.B{
+	display:flex;
+	margin-left:25px;
+}
+.C{
+	height:700px;
+	width:400px;
+	background:#fff;
+	margin-right:2px solid black;
+}
+.C h4{
+	font-size:25px;
+	padding-left:20px;
+}
+.C p{
+	color:black;
+	font-size:20px;
+	padding-left:20px;
+}
+.C input[type=button]{
+	background:#fff;
+	color:black;
+	margin-left:20px;
+	height:40px;
+	width:30%;
+	text-transform:uppercase;
+}
+.C input[type=button]:hover{
+	background:black;
+	color:#fff;
+	cursor:pointer;
+}
+.D{
+	height:600px;
+	width:400px;
+	background:#fff;
+}
+.D h4{
+	font-size:25px;
+	padding-left:20px;
+}
+.D p{
+	color:black;
+	font-size:20px;
+	padding-left:20px;
+}
+.D input[type=button]{
+	background:#fff;
+	color:black;
+	margin-left:20px;
+	height:40px;
+	width:30%;
+	text-transform:uppercase;
+}
+.D input[type=button]:hover{
+	background:black;
+	color:#fff;
+	cursor:pointer;
+}
+.E{
+	height:600px;
+	width:400px;
+	background:#fff;
+}
+.E h4{
+	font-size:25px;
+	padding-left:20px;
+}
+.E p{
+	color:black;
+	font-size:20px;
+	padding-left:20px;
+}
+.E input[type=button]{
+	background:#fff;
+	color:black;
+	margin-left:20px;
+	height:40px;
+	width:30%;
+	text-transform:uppercase;
+}
+.E input[type=button]:hover{
+	background:black;
+	color:#fff;
+	cursor:pointer;
+}
+.F{
+	height:500px;
+	width:100%;
+	background:#ECF0F1;
+}
+.F h6{
+	text-align:center;
+	padding-top:80px;
+	letter-spacing:1px;
+	font-size:15px;
+}
+.F h2{
+	font-size:40px;
+	font-family:corbel;
+	text-align:center;
+}
+.F p{
+	font-size:40px;
+	font-family:calibri;
+	text-align:center;
+}
+.G{
+	background:#D0D3D4 ;
+	height:700px;
+	width:100%;
+}
+.H{
+	height:500px;
+	width:100%;
+	background-image:url("https://colibriwp-work.colibriwp.com/airclub-pro/wp-content/uploads/2020/01/wide-bg-1.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin-top:-50px;
+
+}
+.H h2{
+	color:#fff;
+	padding-left:180px;
+	padding-top:170px;
+	font-size:50px;
+}
+.H p{
+	font-size:20px;
+	color:#fff;
+	padding-left:50px;
+	
+}
+.H input[type=button]{
+	background:blue;
+	height:40px;
+	width:10%;
+	color:#fff;
+	text-transform:uppercase;
+	border:1px solid #fff;
+	margin-left:250px;
+	
+}
+.H input[type=button]:hover{
+	color:black;
+	background:#fff;
+	cursor:pointer;
+}
+.I{
+	background-image:url("https://colibriwp-work.colibriwp.com/airclub-pro/wp-content/uploads/2020/01/wide-bg-3.jpg");
+	height:500px;
+	width:100%;
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin-top:-50px;
+}
+.I h2{
+	color:black;
+	padding-left:180px;
+	padding-top:170px;
+	font-size:50px;
+}
+.I p{
+	font-size:20px;
+	color:black;
+	padding-left:50px;
+	
+}
+.I input[type=button]{
+	background:black;
+	height:40px;
+	width:10%;
+	color:#fff;
+	text-transform:uppercase;
+	border:1px solid #fff;
+	margin-left:250px;
+	
+}
+.I input[type=button]:hover{
+	color:black;
+	background:#fff;
+	cursor:pointer;
+}	
+.J{
+	background-image:url("https://colibriwp-work.colibriwp.com/airclub-pro/wp-content/uploads/2020/01/wide-bg-2.jpg");
+	height:500px;
+	width:100%;
+	background-size:cover;
+	background-repeat:no-repeat;
+	margin-top:-50px;
+}
+.J h2{
+	color:#fff;
+	padding-left:780px;
+	padding-top:170px;
+	font-size:50px;
+}
+.J p{
+	font-size:20px;
+	color:#fff;
+	padding-left:680px;
+	
+}
+.J input[type=button]{
+	background:blue;
+	height:40px;
+	width:10%;
+	color:#fff;
+	text-transform:uppercase;
+	border:1px solid #fff;
+	margin-left:780px;
+	
+}
+.J input[type=button]:hover{
+	color:black;
+	background:#fff;
+	cursor:pointer;
+}	
+.K{
+	background:#F0F3F4 ;
+	height:700px;
+	width:100%;
+}
+.L{
+	height:600px;
+	width:100%;
+}
+.M{
+	
+	background-color:#3498DB;
+	margin-top:-30px;
+	height:550px;
+	width:100%;
+}
+.N{
+	float:right;
+	margin-left:260px;
+}
+.O{
+	background:#2E86C1;
+	display:flex;
+	height:200px;
+	width:100%;
+	padding:2px;
+}
+.P{
+	display:flex;
+	background:#1A5276;
+	height:200px;
+	width:100%;
+
+}
